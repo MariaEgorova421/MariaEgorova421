@@ -5,3 +5,7 @@
 ![Profile_views](https://komarev.com/ghpvc/?username=MariaEgorova421&color=ff69b4&style=for-the-badge)
 
 ![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
+
+new-badge: ['new/*', 'badge/*']
+new-section: section/*
+typo-fix: fixed/*

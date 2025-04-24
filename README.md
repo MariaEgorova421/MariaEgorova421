@@ -2,6 +2,8 @@
 
 ![Умоляющий котенок (61 фото)](https://github.com/user-attachments/assets/907a870f-1216-4e1a-a081-c4d7de6a9406)
 
+[![Header](https://github.com/user-attachments/assets/907a870f-1216-4e1a-a081-c4d7de6a9406)](https://web.telegram.org/k/#@MariaKourskaya)
+
 
 <!--
 **MariaEgorova421/MariaEgorova421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

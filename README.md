@@ -1,6 +1,7 @@
 ## Возьмите меня в айтишку
 
-![Header]()
+![Header](![DSC07691](https://github.com/user-attachments/assets/f4fd6024-5f68-48c3-8625-e54b8b06dd58)
+)
 
 <!--
 **MariaEgorova421/MariaEgorova421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

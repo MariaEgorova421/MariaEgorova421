@@ -1,7 +1,6 @@
 ## Возьмите меня в айтишку
 
-![Header](![DSC07691](https://github.com/user-attachments/assets/f4fd6024-5f68-48c3-8625-e54b8b06dd58)
-)
+![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/video.gif)
 
 <!--
 **MariaEgorova421/MariaEgorova421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

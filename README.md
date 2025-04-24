@@ -1,7 +1,5 @@
 ## Возьмите меня в айтишку
 
-![Header]()
-
 ![Умоляющий котенок (61 фото)](https://github.com/user-attachments/assets/907a870f-1216-4e1a-a081-c4d7de6a9406)
 
 

@@ -1,8 +1,8 @@
 ## Возьмите меня в айтишку
 
-![Умоляющий котенок (61 фото)](https://github.com/user-attachments/assets/907a870f-1216-4e1a-a081-c4d7de6a9406)
-
 [![Header](https://github.com/user-attachments/assets/907a870f-1216-4e1a-a081-c4d7de6a9406)](https://web.telegram.org/k/#@MariaKourskaya)
+
+![Profile_views](https://komarev.com/ghpvc/?username=danny-pilot&color=ff69b4&style=for-the-badge)
 
 
 <!--

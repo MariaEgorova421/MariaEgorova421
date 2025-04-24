@@ -1,4 +1,4 @@
-![English-C1-pink](https://github.com/user-attachments/assets/50c98be7-ab2a-43d0-afd5-76669e2c8185)## :sparkling_heart: Возьмите меня в айтишку :sparkling_heart:
+## :sparkling_heart: Возьмите меня в айтишку :sparkling_heart:
 
 
 [![Header](https://github.com/user-attachments/assets/907a870f-1216-4e1a-a081-c4d7de6a9406)](https://web.telegram.org/k/#@MariaKourskaya)
@@ -7,7 +7,7 @@
 
 ![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
 
-(https://img.shields.io/badge/English-C1-pink)
+![English-C1-pink](https://github.com/user-attachments/assets/50c98be7-ab2a-43d0-afd5-76669e2c8185)
 
 
 

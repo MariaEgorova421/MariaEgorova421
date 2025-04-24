@@ -1,6 +1,9 @@
 ## Возьмите меня в айтишку
 
-![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/video.gif)
+![Header]()
+
+![Умоляющий котенок (61 фото)](https://github.com/user-attachments/assets/907a870f-1216-4e1a-a081-c4d7de6a9406)
+
 
 <!--
 **MariaEgorova421/MariaEgorova421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

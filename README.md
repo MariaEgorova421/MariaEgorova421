@@ -6,6 +6,4 @@
 
 ![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
 
-new-badge: ['new/*', 'badge/*']
-new-section: section/*
-typo-fix: fixed/*
+

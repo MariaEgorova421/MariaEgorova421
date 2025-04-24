@@ -1,4 +1,4 @@
-## Возьмите меня в айтишку :sparkling_heart:
+## :sparkling_heart: Возьмите меня в айтишку :sparkling_heart:
 
 [![Header](https://github.com/user-attachments/assets/907a870f-1216-4e1a-a081-c4d7de6a9406)](https://web.telegram.org/k/#@MariaKourskaya)
 

@@ -1,5 +1,5 @@
-## :sparkling_heart: Возьмите меня в айтишку :sparkling_heart:     ![English-C1-pink](https://github.com/user-attachments/assets/50c98be7-ab2a-43d0-afd5-76669e2c8185)
-
+#### :sparkling_heart: Maria Egorova :sparkling_heart:     ![English-C1-pink](https://github.com/user-attachments/assets/50c98be7-ab2a-43d0-afd5-76669e2c8185)
+## :sparkling_heart: Возьмите меня в айтишку :sparkling_heart:
 
 [![Header](https://github.com/user-attachments/assets/907a870f-1216-4e1a-a081-c4d7de6a9406)](https://web.telegram.org/k/#@MariaKourskaya)
 
